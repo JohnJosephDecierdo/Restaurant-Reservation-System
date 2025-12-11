@@ -1,0 +1,14 @@
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\bin\Debug\net8.0\Restaurant Reservation Project.exe
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\bin\Debug\net8.0\Restaurant Reservation Project.deps.json
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\bin\Debug\net8.0\Restaurant Reservation Project.runtimeconfig.json
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\bin\Debug\net8.0\Restaurant Reservation Project.dll
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\bin\Debug\net8.0\Restaurant Reservation Project.pdb
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.AssemblyInfoInputs.cache
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.AssemblyInfo.cs
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.csproj.CoreCompileInputs.cache
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.dll
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\refint\Restaurant Reservation Project.dll
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.pdb
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\Restaurant Reservation Project.genruntimeconfig.cache
+C:\Users\johnjosephdecierdo\source\repos\Restaurant Reservation Project\obj\Debug\net8.0\ref\Restaurant Reservation Project.dll

@@ -1,0 +1,25 @@
+﻿****************************************
+            BLUE HARBOR CAFE
+****************************************
+Address: 470 Bayfront Place, Naples, FL
+Tel: (239) 555-0298
+Receipt No.: 1    Date: 2025-12-11 21:42
+Customer: Ker    Table: 1
+Cashier: Mary
+----------------------------------------
+Item Name               Qty    Total
+----------------------------------------
+Grilled Chicken Plate    5   ₱  900.00
+Beef Steak               1   ₱  250.00
+Lemonade                 1   ₱   70.00
+Onion Rings              3   ₱  240.00
+----------------------------------------
+Subtotal                        ₱ 1460.00
+Tax                             ₱  175.20
+Grand Total                     ₱ 1635.20
+****************************************
+Payment: Cash    Amount: ₱ 1700.00
+Change:                          ₱   64.80
+****************************************
+      Thank you for dining with us!
+****************************************

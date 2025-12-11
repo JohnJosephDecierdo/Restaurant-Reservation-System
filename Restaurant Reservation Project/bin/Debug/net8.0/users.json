@@ -1,0 +1,62 @@
+[
+  {
+    "Username": "owner01",
+    "Password": "admin123",
+    "Role": "Owner"
+  },
+  {
+    "Username": "server01",
+    "Password": "serve123",
+    "Role": "FoodServer"
+  },
+  {
+    "Username": "cashier01",
+    "Password": "cash123",
+    "Role": "Cashier"
+  },
+  {
+    "Username": "John",
+    "Password": "123",
+    "Role": "FoodServer"
+  },
+  {
+    "Username": "Mary",
+    "Password": "123",
+    "Role": "Cashier"
+  },
+  {
+    "Username": "Kie",
+    "Password": "123",
+    "Role": "server"
+  },
+  {
+    "Username": "kil",
+    "Password": "123",
+    "Role": "server"
+  },
+  {
+    "Username": "jir",
+    "Password": "123",
+    "Role": "server"
+  },
+  {
+    "Username": "Jane",
+    "Password": "123",
+    "Role": "cashier"
+  },
+  {
+    "Username": "ew",
+    "Password": "we",
+    "Role": "cashier"
+  },
+  {
+    "Username": "we",
+    "Password": "213",
+    "Role": "cashier"
+  },
+  {
+    "Username": "CreateAccountTest",
+    "Password": "123",
+    "Role": "server"
+  }
+]

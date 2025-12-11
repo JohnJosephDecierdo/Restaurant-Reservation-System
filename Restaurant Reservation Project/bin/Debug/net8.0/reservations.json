@@ -1,0 +1,149 @@
+[
+  {
+    "ReservationID": 1,
+    "CustomerName": "Ker",
+    "Date": "2025-12-11",
+    "Time": "21:03",
+    "TableNumber": 1,
+    "Orders": [
+      {
+        "Item": "Grilled Chicken Plate",
+        "Quantity": 5,
+        "Price": 180
+      },
+      {
+        "Item": "Beef Steak",
+        "Quantity": 1,
+        "Price": 250
+      },
+      {
+        "Item": "Lemonade",
+        "Quantity": 1,
+        "Price": 70
+      },
+      {
+        "Item": "Onion Rings",
+        "Quantity": 3,
+        "Price": 80
+      }
+    ],
+    "TotalAmount": 1460,
+    "CreatedByServer": "John",
+    "IsPaid": true,
+    "PaidAt": "2025-12-11T21:42:17.8025253+08:00"
+  },
+  {
+    "ReservationID": 2,
+    "CustomerName": "Ler",
+    "Date": "2025-12-11",
+    "Time": "21:03",
+    "TableNumber": 2,
+    "Orders": [
+      {
+        "Item": "Spaghetti Bolognese",
+        "Quantity": 3,
+        "Price": 150
+      },
+      {
+        "Item": "Fried Rice Meal",
+        "Quantity": 4,
+        "Price": 120
+      },
+      {
+        "Item": "Pork Chop with Gravy",
+        "Quantity": 1,
+        "Price": 200
+      },
+      {
+        "Item": "Coke in Can",
+        "Quantity": 5,
+        "Price": 60
+      }
+    ],
+    "TotalAmount": 1430,
+    "CreatedByServer": "Kie",
+    "IsPaid": false,
+    "PaidAt": null
+  },
+  {
+    "ReservationID": 3,
+    "CustomerName": "Mer",
+    "Date": "2025-12-11",
+    "Time": "21:04",
+    "TableNumber": 3,
+    "Orders": [
+      {
+        "Item": "Beef Steak",
+        "Quantity": 4,
+        "Price": 250
+      },
+      {
+        "Item": "Pork Chop with Gravy",
+        "Quantity": 2,
+        "Price": 200
+      },
+      {
+        "Item": "Fried Rice Meal",
+        "Quantity": 1,
+        "Price": 120
+      },
+      {
+        "Item": "Grilled Chicken Plate",
+        "Quantity": 2,
+        "Price": 180
+      },
+      {
+        "Item": "Iced Coffee",
+        "Quantity": 1,
+        "Price": 90
+      },
+      {
+        "Item": "Lemonade",
+        "Quantity": 2,
+        "Price": 70
+      },
+      {
+        "Item": "French Fries",
+        "Quantity": 5,
+        "Price": 75
+      }
+    ],
+    "TotalAmount": 2485,
+    "CreatedByServer": "kil",
+    "IsPaid": false,
+    "PaidAt": null
+  },
+  {
+    "ReservationID": 4,
+    "CustomerName": "Nir",
+    "Date": "2025-12-11",
+    "Time": "21:27",
+    "TableNumber": 4,
+    "Orders": [
+      {
+        "Item": "Grilled Chicken Plate",
+        "Quantity": 5,
+        "Price": 180
+      },
+      {
+        "Item": "Beef Steak",
+        "Quantity": 3,
+        "Price": 250
+      },
+      {
+        "Item": "Coke in Can",
+        "Quantity": 4,
+        "Price": 60
+      },
+      {
+        "Item": "Nachos",
+        "Quantity": 1,
+        "Price": 110
+      }
+    ],
+    "TotalAmount": 2000,
+    "CreatedByServer": "kil",
+    "IsPaid": false,
+    "PaidAt": null
+  }
+]

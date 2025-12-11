@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "ReservationID": 1,
+    "Date": "2025-12-11T21:42:17.8612418+08:00",
+    "Amount": 1635.2,
+    "CashierName": "Mary"
+  }
+]

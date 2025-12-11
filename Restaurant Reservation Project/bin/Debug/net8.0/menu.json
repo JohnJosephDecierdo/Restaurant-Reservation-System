@@ -1,0 +1,77 @@
+[
+  {
+    "Category": "Main Menu",
+    "Name": "Grilled Chicken Plate",
+    "Price": 180
+  },
+  {
+    "Category": "Main Menu",
+    "Name": "Beef Steak",
+    "Price": 250
+  },
+  {
+    "Category": "Main Menu",
+    "Name": "Spaghetti Bolognese",
+    "Price": 150
+  },
+  {
+    "Category": "Main Menu",
+    "Name": "Fried Rice Meal",
+    "Price": 120
+  },
+  {
+    "Category": "Main Menu",
+    "Name": "Pork Chop with Gravy",
+    "Price": 200
+  },
+  {
+    "Category": "Beverages",
+    "Name": "Iced Coffee",
+    "Price": 90
+  },
+  {
+    "Category": "Beverages",
+    "Name": "Lemonade",
+    "Price": 70
+  },
+  {
+    "Category": "Beverages",
+    "Name": "Coke in Can",
+    "Price": 60
+  },
+  {
+    "Category": "Beverages",
+    "Name": "Hot Chocolate",
+    "Price": 85
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "French Fries",
+    "Price": 75
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Garlic Bread",
+    "Price": 65
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Onion Rings",
+    "Price": 80
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Spring Rolls",
+    "Price": 90
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Nachos",
+    "Price": 110
+  },
+  {
+    "Category": "Appetizer",
+    "Name": "Sweet Potato",
+    "Price": 15
+  }
+]
